@@ -1,0 +1,38 @@
+Compil WorkHard() {
+
+intcompil a,b,c,a,a,a,vb;
+floatcompil k,n,k;
+
+//Begin Of my main()
+start
+
+a=b+k;
+
+scancompil(x,y,z);
+printcompil("Hello World!",x);
+
+if (a == c)
+then
+                     a=5+b ;
+                    if (t != k)
+                    then
+                                a=b+c;
+                    endif;
+
+                    if (y >= b)
+                    then
+                            b=f;
+                            b=b+c/f+e;
+                    endif;
+
+
+else
+                    x=z/o;
+                    n=b+6;
+endif;
+
+n=c+a;
+
+//return0;
+}
+
